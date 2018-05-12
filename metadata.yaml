@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '41232'
     url: http://www.gutenberg.org/2009/agents/41232
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41548#Life-in-Dixie-during-the-War1861-1862-1863-1864-1865
 gutenberg_issued: '2012-12-04'
 gutenberg_type: Text
 identifiers:
